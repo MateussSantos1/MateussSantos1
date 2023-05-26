@@ -3,6 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateusantos.s)
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateussSantos1&show_icons=true&theme=dracula&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateussSantos1)](https://github.com/MateussSantos1/github-readme-stats)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
