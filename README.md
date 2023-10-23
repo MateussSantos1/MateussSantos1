@@ -1,5 +1,4 @@
-## Olá! Eu sou o Mateus Carvalho🖐️      [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateusantos.s)
-
+## Olá! Eu sou o Mateus Carvalho🖐️     
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateussSantos1&show_icons=true&theme=dracula&count_private=true)
 
@@ -14,7 +13,7 @@
         <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
 
 Mais Informações:
 - [Email Pra Contato](mailto:carvalho.mateus@escolar.ifrn.edu.br?subject=&body=)<br/>
