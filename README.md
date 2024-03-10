@@ -1,4 +1,4 @@
-## Olá!   🖐️     
+##    🖐️   🖐️  
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateussSantos1&show_icons=true&theme=dracula&count_private=true)
 
@@ -15,5 +15,5 @@
 
 
 
-Mais Informações:
-- [Email Pra Contato](mailto:carvalho.mateus@escolar.ifrn.edu.br?subject=&body=)<br/>
+
+- [Email](mailto:carvalho.mateus@escolar.ifrn.edu.br?subject=&body=)<br/>
